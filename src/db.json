@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "mouni",
+      "status": "student"
+    },
+    {
+      "id": 2,
+      "title": "giri",
+      "status": "trainee"
+    },
+    {
+      "id": 3,
+      "title": "kavin",
+      "status": "developer"
+    },
+    {
+      "title": "bnm",
+      "id": 5
+    }
+  ]
+}
